@@ -49,3 +49,18 @@ Will create collections for the endpoints
 Can use Postman to send requests and test API responses
 Covers validation, success/error flows
 This gives a nice workflow for going from API design to implementation using standard tools like Swagger, Spring Boot, and Postman. The focus is on the contract-first approach with OpenAPI spec at the center.
+
+==========================================================================
+
+**T3**
+
+
+==========================================================================
+
+**T4**
+
+**Created a web UI for the movie review application developed in prompt #2. The UI allows users to:**
+
+Add a new user by providing name and ID
+Get user details by searching by ID or name
+Delete a user by ID
