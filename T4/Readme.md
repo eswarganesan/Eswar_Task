@@ -1,10 +1,37 @@
-**Swagger Editor - yaml file**
-![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/a0e934b8-8d97-4ed6-bfab-ca568b8a42b9)
+**1. ADD USER**
 
-**API Documentation of the Spring Boot Application Created**
-![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/2b4a779d-0aed-43b1-bfac-db0a9c91a192)
-![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/be55416a-b988-4c41-a750-2f4d284cdf6e)
-![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/302b3a6a-189f-4ab7-80e9-fb041d42979e)
-![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/baafadb3-1db1-41aa-84c4-9d03aff3d7c3)
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/331c2eea-c0d7-4efb-b73e-84adbfb182d0)
 
-**Postman Screenshots**
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/94836490-6591-43b6-afeb-2933577e7736)
+
+**DATABASE**
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/3a40969e-5aec-42f0-aad2-16a2f21fe94e)
+
+**2. GET BY NAME **
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/c56ce210-0341-44b4-be97-97b2cfe49067)
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/6664f34e-3308-40a7-98b5-afed9aee9dda)
+
+**GET BY ID**
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/bc0ed00d-9010-4fb6-acd6-2ee712a32d49)
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/c85cdc0f-2c04-4c7f-b8ad-b7cdd51136ef)
+
+
+**DELETE BY ID**
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/f7e7c82d-31c9-489a-92ba-f2657b9e0253)
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/7a69e152-82b9-41ae-91eb-1ab1c150e046)
+
+**DATABASE BEFORE**
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/f7825f72-21b4-408d-837f-862326f2c98e)
+
+
+**DATABASE AFTER**
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/eb9b886e-9f4c-4662-8a65-7ba833a793f7)
