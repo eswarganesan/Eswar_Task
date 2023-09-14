@@ -1,4 +1,4 @@
-**1. ADD USER**
+**1.ADD USER**
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/331c2eea-c0d7-4efb-b73e-84adbfb182d0)
 
@@ -8,7 +8,7 @@
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/3a40969e-5aec-42f0-aad2-16a2f21fe94e)
 
-**2. GET BY NAME **
+**2.GET BY NAME**
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/c56ce210-0341-44b4-be97-97b2cfe49067)
 
