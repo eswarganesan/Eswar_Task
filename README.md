@@ -18,7 +18,7 @@ Implemented the following CRUD operations within the REST API: POST: Create new 
 
 Established a MongoDB database named "CustomerDB" to store and manage data for the REST API.
 
-==========================================================================================================================================
+===================================================================================
 
 **T2**
 
