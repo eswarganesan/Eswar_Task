@@ -54,6 +54,7 @@ This gives a nice workflow for going from API design to implementation using sta
 
 **T3**
 
+Created a Docker fileand build Docker images and Containers.
 
 ==========================================================================
 
