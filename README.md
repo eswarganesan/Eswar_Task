@@ -17,9 +17,11 @@ Implemented the following CRUD operations within the REST API: POST: Create new 
 **4. Database Configuration:**
 
 Established a MongoDB database named "CustomerDB" to store and manage data for the REST API.
-=============================================================================================================================================================================================
+
+==========================================================================================================================================
 
 **T2**
+
 **Here are the steps to implement the Server Management API using Swagger Editor, Spring Boot, and Postman:**
 
 **1. Design the API in Swagger Editor**
