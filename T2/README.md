@@ -1,22 +1,17 @@
-# Eswar_Task1
+# Eswar_Task2
 
-**1. Environment Setup:**
+**Swagger yaml file in Editor**
 
-Created a REST API using Spring Boot, MongoDB, and Lombok for streamlined development.
+**Swagger Open-API-Documentation**
 
-**2. API Operations:**
+**POST**
 
-Utilized Postman to execute CRUD (Create, Read, Update, Delete) operations on the REST API.
+**GET**
 
+**PUT**
 
-**3. Supported CRUD Operations:**
+**AFTER UPDATING**
 
-Implemented the following CRUD operations within the REST API:
-POST: Create new records.
-GET: Retrieve existing records.
-PUT: Update existing records.
-DELETE: Remove records.
+**DELETE**
 
-**4. Database Configuration:**
-
-Established a MongoDB database named "CustomerDB" to store and manage data for the REST API.
+**AFTER DELETING**
