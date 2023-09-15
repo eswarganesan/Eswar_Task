@@ -65,3 +65,9 @@ Created a Docker fileand build Docker images and Containers.
 Add a new user by providing name and ID
 Get user details by searching by ID or name
 Delete a user by ID
+
+==========================================================================
+
+**T5**
+
+Created a CI/CD Pipeline and Delpoy in Azure.
