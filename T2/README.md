@@ -16,15 +16,19 @@
 
 **GET**
 
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/49e698cb-6d54-4c0d-8ce5-fc8028cd3997)
 
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/e9727463-6c7b-4374-8fe3-fac571b1da86)
 
 **PUT**
 
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/fee16f03-87cf-425d-a1e1-ca810dea6f64)
 
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/9237e9db-b43b-40eb-a6d1-6c720bf988a4)
 
 **AFTER UPDATING**
 
-
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/107b6c26-fbb2-4ff7-9632-c0e3db83bdcd)
 
 **DELETE**
 
