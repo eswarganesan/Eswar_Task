@@ -27,11 +27,11 @@
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/769e5da7-cc67-43df-8e02-64b543776795)
 
 
-**DATABASE BEFORE**
+**DATABASE BEFORE DELETING**
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/27abfc62-bbc3-4926-94dc-385b387544a4)
 
 
-**DATABASE AFTER**
+**DATABASE AFTER DELETING**
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/c3451c0d-2471-4315-9970-fa56528e2676)
