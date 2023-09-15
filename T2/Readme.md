@@ -1,1 +1,0 @@
-**Swagger Editor - yaml file**
