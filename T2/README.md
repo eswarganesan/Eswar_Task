@@ -32,7 +32,13 @@
 
 **DELETE**
 
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/62b9d964-92e2-4d82-b2b7-79ccc4ab7be8)
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/f5893316-6786-4fc0-a8a9-fc94b49446b8)
+
 **AFTER DELETING**
+
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/22d09aa6-8d2a-4e61-8ac0-27a02d60a75f)
 
 
 
