@@ -2,11 +2,12 @@
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/fcbe8ce5-9ba2-4229-b472-68aef71dcdce)
 
-![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/94836490-6591-43b6-afeb-2933577e7736)
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/89198ced-fcf3-4bf3-908d-89553dcb79d3)
 
 **DATABASE**
 
-![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/3a40969e-5aec-42f0-aad2-16a2f21fe94e)
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/9bcd1dc6-255c-4782-9e4b-b1b3e300715b)
+
 
 **2.GET BY NAME**
 
