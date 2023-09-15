@@ -1,6 +1,6 @@
 **1.ADD USER**
 
-![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/331c2eea-c0d7-4efb-b73e-84adbfb182d0)
+![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/fcbe8ce5-9ba2-4229-b472-68aef71dcdce)
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/94836490-6591-43b6-afeb-2933577e7736)
 
