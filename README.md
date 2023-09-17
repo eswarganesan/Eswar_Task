@@ -54,7 +54,8 @@ This gives a nice workflow for going from API design to implementation using sta
 
 **T3**
 
-Created a Docker fileand build Docker images and Containers.
+Created a Docker file and build Docker images and Containers.
+Move the API into Docker Contaier and then run it.
 
 ==========================================================================
 
