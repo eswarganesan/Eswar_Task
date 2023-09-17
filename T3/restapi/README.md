@@ -1,15 +1,30 @@
 # T3
+
+**Docker login**
+
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/87d79e49-93f8-4ab1-957a-6b03224396c1)
+
+**Docker Images and files in that folder**
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/24508833-d97e-4998-ba96-4f5e99bf2ef4)
 
+**Build Docker image**
+
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/8a28dac7-81da-49d6-953c-d3439336595e)
+
+**Docker Image created and Run the application**
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/990edeea-77c0-4982-aa3a-54b4a88e0c05)
 
+**Image Created in Docker**
+
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/bfa4fc3f-7582-49ee-9745-d43a7203fbeb)
 
+**Docker Container list**
+
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/fa5e5236-0d18-483d-b2b5-b1f62d2ec8c7)
+
+**Created a Container in Docker**
 
 ![image](https://github.com/eswarganesan/Eswar_Task/assets/104221146/00406e87-329d-4091-93d6-c16101cf4ebe)
 
